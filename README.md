@@ -1,4 +1,4 @@
-Try to update insomniaHUD as frequent as possible!
+Try to update insomniaHUD as frequent as possible (new updates are always getting pushed)
 
 To do that you'll need to install git at the link below
 
