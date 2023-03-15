@@ -1,6 +1,6 @@
 Using a very sexy HUD (insomniaHUD)
 
-It would be better if you use [Git](https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.exe) to install the HUD
+It would be better if you use [Git](https://git-scm.com/download/win) to install the HUD
 
 To install the HUD you'll need to run git bash in  tf/custom
 
