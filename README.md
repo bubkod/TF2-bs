@@ -6,4 +6,4 @@ To install the HUD you'll need to run git bash in  tf/custom
 
 ```git clone https://github.com/p3tr1ch0r/insomniaHUD.git```
 
-Try to update insomniaHUD as frequent as possible (new updates are always getting pushed)
+This HUD is getting updated very frequently, use the same command mentioned above to update the HUD
