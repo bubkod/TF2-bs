@@ -1,6 +1,6 @@
 # My config and stuff
 
-Using a very sexy HUD (insomniaHUD)
+The HUD in the custom folder does not include the HUD itself, The HUD's called insomniaHUD, in order to use it you'll need to install it first
 
 - You should use [Git](https://git-scm.com/download/win) to install the HUD
 
