@@ -10,4 +10,3 @@ To install the HUD you'll need to run git bash in  tf/custom
 
 This HUD is getting updated very frequently, use the same command mentioned above to update the HUD
 
-- In case you want to install the config the cool way you'll need to go to the folder ```steamapps/common/Team Fortress 2/
